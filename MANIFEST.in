@@ -1,0 +1,3 @@
+# include the README file
+include *.md
+include mito_sims_py3/__version__
